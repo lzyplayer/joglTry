@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jogl_Required">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/gluegen-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jogl_required/jogl-java-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
